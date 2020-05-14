@@ -4,7 +4,7 @@ Version: 1.1.0
 Release: 1%{?dist}
 License: MIT
 Group: System Environment/Libraries
-URL: https://github.com/crienzo/simpleamd
+URL: https://github.com/yakara-ltd/simpleamd
 Source: simpleamd-%{version}.tar.gz
 BuildRequires: autoconf automake libtool
 
